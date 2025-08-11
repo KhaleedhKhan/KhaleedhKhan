@@ -1,4 +1,4 @@
-[![MasterHead](https://www.netforte.co.uk/assets/img/services/testing/slide.gif)](https://khaleedhkhan.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F718816790534159029%2F&psig=AOvVaw0PJj3EZTgXAWypErtqDMAD&ust=1754978665345000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC3tJiLgo8DFQAAAAAdAAAAABAV)](https://khaleedhkhan.io)
 
 
 <h1 align="center">Hi 👋, I'm Khaleedh Khan</h1>
