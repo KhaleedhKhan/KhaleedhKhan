@@ -2,18 +2,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Khaleedh Khan</h1>
-<h3 align="center">Aspiring Software Developer from India</h3>
+<h3 align="center">Aspiring Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaleedhkhan&label=Profile%20views&color=0e75b6&style=flat" alt="khaleedhkhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khaleedhkhan" target="blank"><img src="https://img.shields.io/twitter/follow/khaleedhkhan?logo=twitter&style=for-the-badge" alt="khaleedhkhan" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Apache Airflow**
 
 - 👨‍💻 All of my projects are available at [https://khaleedhkhan.github.io/portfolio/](https://khaleedhkhan.github.io/portfolio/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Modern Data Stack**
 
 - 📫 How to reach me **pathankhaleedhkhan@gmail.com**
 
