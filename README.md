@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pathankhaleedhkhan@gmail.com**
 
-- 📄 Know about my experiences [https://khaleedhkhan.github.io/portfolio/CV/KK_RESUME.pdf](https://khaleedhkhan.github.io/portfolio/CV/KK_RESUME.pdf)
+- 📄 Know about my experiences [https://khaleedhkhan.github.io/portfolio/CV/Data%20Engineer.pdf](https://khaleedhkhan.github.io/portfolio/CV/Data%20Engineer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
